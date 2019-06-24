@@ -1,0 +1,4 @@
+baseURL = "https://abhisek.github.io/"
+languageCode = "en-us"
+title = "Abhisek Datta"
+theme = "uilite"
