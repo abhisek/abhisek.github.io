@@ -2,15 +2,16 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "May 2017 - Nov 2017",
-			"company" : "Uber",
-			"website": "https://www.uber.com",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "September 2011 - December 2016",
+			"company" : "3S Labs",
+			"website": "https://3slabs.com",
+			"description" : "Started 3S Labs with the objective of delivering quality assured information security services. Delivered projects related to Penetration Testing, Reverse Engineering & Vulnerability Research, Training etc."
 		},
 		{
-			"timeperiod" : "Nov 2017 - Present",
-			"company" : "Google",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "December 2016 - Present",
+			"company" : "Appsecco",
+			"website": "https://appsecco.com",
+			"description" : "Head of Technology, responsible for leading the DevSecOps Team towards automation platform development, rollout, maintenance and evangelism inside and outside the company."
 		}
 	]
 }

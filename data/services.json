@@ -3,13 +3,13 @@
 	"services" : [
 		{
 			"icon" : "pencil-ruler",
-			"title" : "Logo Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"title" : "Coding Stuff",
+			"description" : "Let the code speak - https://github.com/abhisek"
 		},
 		{
 			"icon" : "pen-nib",
-			"title" : "Graphics Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"title" : "Breaking Stuff",
+			"description" : "Point me to the source.. :-O"
 		}
 	]
 }
