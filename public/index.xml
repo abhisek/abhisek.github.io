@@ -6,9 +6,20 @@
     <description>Recent content on Abhisek Datta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2019 15:03:48 +0530</lastBuildDate>
     
 	<atom:link href="https://abhisek.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Laptop</title>
+      <link>https://abhisek.github.io/my-laptop/</link>
+      <pubDate>Wed, 26 Jun 2019 15:03:48 +0530</pubDate>
+      
+      <guid>https://abhisek.github.io/my-laptop/</guid>
+      <description> This is how it looks after I finally moved out from OSX
+ </description>
+    </item>
     
   </channel>
 </rss>
